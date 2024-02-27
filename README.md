@@ -49,7 +49,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
 
 <h2 align="center">
- <a href="https://discord.com/users/1201174959096082452"><img  width="400px" src="https://lanyard.kyrie25.me/api/1201174959096082452?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&bg=DD272700&idleMessage=ZeGa+Was+Here+So+Me"></a>
+<a href="https://discord.com/users/1201174959096082452"><img  width="400px" src="https://lanyard.kyrie25.me/api/1201174959096082452?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness"></a>
 <a href="https://discord.com/users/1201174959096082452"><img  width="400px" src="https://lanyard.kyrie25.me/api/1201174959096082452?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=3256a8&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness"></a>
 <br> </br>
 <a href="" align="center"> <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=vwuht447wffml59xtfokakivv&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"></a>
